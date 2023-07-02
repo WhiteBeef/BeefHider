@@ -1,0 +1,6 @@
+name: BeefHider
+version: '${project.version}'
+main: ru.whitebeef.beefhider.BeefHider
+api-version: 1.19
+depend: [ BeefLibrary ]
+authors: [ _WhiteBeef_ ]
